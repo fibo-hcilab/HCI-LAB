@@ -55,7 +55,8 @@ https://www.facebook.com/HCI-Lab-FIBO-112352633545053/
 ### FIBO School Consortium - Robot Project
 
 - 2020
-  - [Virtual Tour](Project/school%20consortium/2020/virtual%20tour/)
+  - [Virtual Tour](Project/school%20consortium/2020/virtual%20tour)
+  - [อุปกรณ์ช่วยบริหารสะโพก](Project/school%20consortium/2020/rehabilitation)
 
 - 2019
   - VR Control Smart Device
