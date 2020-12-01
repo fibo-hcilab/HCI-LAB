@@ -2,7 +2,8 @@
 
 ![System Overview](src/System%20Overview%20-%202020-11-30%20A.png)
 
-Link : https://github.com/PeeAppleS/Virtual-Tour-FIBO
+- Date : 16 - 27 November 2020
+- Link : https://github.com/PeeAppleS/Virtual-Tour-FIBO
 
 ## สมาชิก
 

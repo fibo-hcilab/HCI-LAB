@@ -2,7 +2,8 @@
 
 ![System Overview](src/System%20Overview%20-%202020-12-01%20A.png)
 
-Link : https://github.com/tata635807/-
+- Date : 16 - 27 November 2020
+- Link : https://github.com/tata635807/-
 
 ## สมาชิก
 

@@ -38,7 +38,6 @@ https://www.facebook.com/HCI-Lab-FIBO-112352633545053/
 ### 2BKMUTT
 
 - 2019
-  - [Design and Development of Virtual Robot Exhibition using Virtual Reality Technology](https://github.com/fibohcilab/internship-2019-Design-and-Development-of-Virtual-Robot-Exhibition-using-Virtual-Reality-Technology)
   - [Robot Gripper for Detecting Object Using Flex Sensor](https://github.com/fibohcilab/2bkmutt-2019-Robot-Gripper-for-Detecting-Object-Using-Flex-Sensor)
   - [การพัฒนาระบบอัตโนมัติสำหรับการนำเสนอผลงานภายในห้องวิจัย Human-Computer Interface](https://github.com/fibohcilab/2bkmutt-2019--Human-Computer-Interface)
   - [การพัฒนาโลกเสมือนผสมความจริงควบคุมอุปกรณ์ผ่าน IoT](https://github.com/fibohcilab/2bkmutt-2019--IoT)
@@ -51,6 +50,9 @@ https://www.facebook.com/HCI-Lab-FIBO-112352633545053/
 
 - 2019
   - [ARDobot](https://github.com/fibohcilab/internship-2019-ARDobot)
+
+- 2018
+  - [การออกแบบและพัฒนาระบบนิทรรศการหุ่นยนต์จำลองโดยใช้เทคโนโลยีความเป็นจริงเสมือน Design and Development of Virtual Robot Exhibition using virtual reality technology](Project/internship/2018/Design%20and%20Development%20of%20Virtual%20Robot%20Exhibition%20using%20Virtual%20Reality%20Technology)
 
 ### FIBO School Consortium - Robot Project
 

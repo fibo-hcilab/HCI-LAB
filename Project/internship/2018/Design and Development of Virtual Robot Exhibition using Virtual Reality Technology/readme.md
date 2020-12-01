@@ -10,7 +10,7 @@
 
 ![System Overview](src/System%20Overview.webp)
 
-- Date : 1 August 2018 - 30 November 2018
+- Date : 1 August - 30 November 2018
 - Link : https://tipapornmo58.wixsite.com/fibocoop
 
 ## สมาชิก
