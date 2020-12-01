@@ -20,7 +20,7 @@ https://www.facebook.com/HCI-Lab-FIBO-112352633545053/
 - [โครงการต่าง ๆ](#โครงการต่าง-ๆ)
   - [2BKMUTT](#2BKMUTT)
   - [นักเรียน/นักศึกษาที่ฝึกงาน](#นักเรียนนักศึกษาที่ฝึกงาน)
-  - [FIBO School Consotrium - Robot Project](#fibo-school-consotrium---robot-project)
+  - [FIBO School Consotrium - Robot Project](#fibo-school-consortium---robot-project)
 - [คลังความรู้](https://github.com/fibohcilab/HCI-Learning)
 
 ## สมาชิก
