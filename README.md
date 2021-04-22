@@ -13,7 +13,7 @@ Human-Computer Interface Lab (HCI Lab) contributes on development of advanced in
 
 ## Social Network Service
 
-https://www.facebook.com/hci.fibo
+https://www.facebook.com/hcilabFIBO
 
 ## สารบัญ
 
