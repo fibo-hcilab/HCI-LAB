@@ -8,7 +8,7 @@ Human-Computer Interface Lab (HCI Lab) contributes on development of advanced in
 ## Official Website
 
 - http://fibo.kmutt.ac.th/fibo/research/fibo-laboratory/hci-lab
-- https://hcilab.net
+- https://www.hcilab.net
 
 ## Social Network Service
 
@@ -45,22 +45,23 @@ https://www.facebook.com/hci.fibo
 
 ### นักเรียน/นักศึกษาที่ฝึกงาน
 
-- 2020
-  - FOBI v.3
-  - Rock, Paper, Scissors
+- 2018
+  - [การออกแบบและพัฒนาระบบนิทรรศการหุ่นยนต์จำลองโดยใช้เทคโนโลยีความเป็นจริงเสมือน Design and Development of Virtual Robot Exhibition using virtual reality technology](Project/internship/2018/Design%20and%20Development%20of%20Virtual%20Robot%20Exhibition%20using%20Virtual%20Reality%20Technology)
 
 - 2019
   - [ARDobot](https://github.com/fibohcilab/internship-2019-ARDobot)
 
-- 2018
-  - [การออกแบบและพัฒนาระบบนิทรรศการหุ่นยนต์จำลองโดยใช้เทคโนโลยีความเป็นจริงเสมือน Design and Development of Virtual Robot Exhibition using virtual reality technology](Project/internship/2018/Design%20and%20Development%20of%20Virtual%20Robot%20Exhibition%20using%20Virtual%20Reality%20Technology)
+- 2020
+  - FOBI v.3
+  - Rock, Paper, Scissors
 
 ### FIBO School Consortium - Robot Project
 
-- 2020
-  - [Virtual Tour](Project/school%20consortium/2020/virtual%20tour)
-  - [อุปกรณ์ช่วยบริหารสะโพก](Project/school%20consortium/2020/rehabilitation)
 
 - 2019
   - VR Control Smart Device
   - Robotic arm
+
+- 2020
+  - [Virtual Tour](Project/school%20consortium/2020/virtual%20tour)
+  - [อุปกรณ์ช่วยบริหารสะโพก](Project/school%20consortium/2020/rehabilitation)
